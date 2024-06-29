@@ -25,7 +25,7 @@
 
 ## Связь
 
-Не стесняйтесь связаться со мной:
+🔔 **Не стесняйтесь связаться со мной:** 🔔
 
 ### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
 ### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
@@ -65,7 +65,7 @@ in those days I decided to create something interesting for servers **a script f
 
 ## Contact
 
-Feel free to contact me:
+🔔 **Feel free to contact me:** 🔔
 
 ### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
 ### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
