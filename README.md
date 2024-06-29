@@ -22,6 +22,7 @@
 ### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
 ### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
 ### - 👀 [Discord:](discord.gg/Mz8xMYkM5m/) 👀
+### - 🤵 [VK:](https://www.https://vk.com/aristarh.ucolov/) 🤵
 ### - 🐱‍👤 [Steam:](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
 ### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
 ### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
@@ -52,6 +53,7 @@ Feel free to contact me:
 ### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
 ### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
 ### - 👀 [Discord:](discord.gg/Mz8xMYkM5m/) 👀
+### - 🤵 [VK:](https://www.https://vk.com/aristarh.ucolov/) 🤵
 ### - 🐱‍👤 [Steam:](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
 ### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
 ### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
