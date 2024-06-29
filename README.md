@@ -8,7 +8,7 @@
 
 Я человек который любит очень сильно автоматизировать процессы и создавать разные фишки в области Кибербезопасности, Игр и многое другое.
 
-## Проекты
+## [Проекты](https://github.com/stars/AristarhUcolov/lists/%D0%BC%D0%BE%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-my-stack)
 
 ### [1. Clear-Net-Sky](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)
 **[C.N.S: Clear Net Sky = S.O.W.A | Сова никогда не спит:](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)**
@@ -41,7 +41,7 @@
 
 I'm a person who loves to heavily automate processes and create various features in the fields of CyberSecurity, Gaming, and much more.
 
-## Projects
+## [Projects](https://github.com/stars/AristarhUcolov/lists/%D0%BC%D0%BE%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-my-stack)
 
 ### [1. Clear-Net-Sky](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)
 **[C.N.S: Clear Net Sky = S.O.W.A | Owl never sleeps:](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)**
