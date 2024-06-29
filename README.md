@@ -40,7 +40,7 @@ Hi! I'm a person who loves to heavily automate processes and create various feat
 ### Clear Net Sky
 Cybersecurity from C.N.S [Clear Net Sky] in the S.O.W.A format. You can add DNS lists that are blocked, for example: Pornographic sites, suicidal sites, sites related to murders and death, and much more. [ Goal: Protect the civilian population from unpredictable things on the Internet ] |
 
-![image](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky/assets/56760026/82c7cf31-9d67-40fd-8698-e5b70721c81d)
+![image](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d)
 
 ## Contact
 
