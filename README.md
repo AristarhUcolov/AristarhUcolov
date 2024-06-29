@@ -6,7 +6,7 @@
 
 ## 🎭 О себе 🎭
 
-🧥 **Я человек** который любит очень сильно **автоматизировать процессы** и **создавать разные фишки в области Кибербезопасности, Игр и многое другое.** 🧥
+🧥 **Я человек** который любит очень сильно **Автоматизировать Процессы** и **Создавать разные фишки в области Кибербезопасности, Игр и многое другое.** 🧥
 
 ## 🔨 [Проекты](https://github.com/stars/AristarhUcolov/lists/%D0%BC%D0%BE%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-my-stack) 🔨
 
@@ -45,7 +45,7 @@
 
 ## 🎭 About Me 🎭
 
-🧥 **I'm a person** who loves to heavily **automate processes** and **create various features in the fields of CyberSecurity, Gaming, and much more.** 🧥
+🧥 **I'm a person** who loves to heavily **Automate Processes** and **Create various features in the fields of CyberSecurity, Gaming, and much more.** 🧥
 
 ## 🔨 [Projects](https://github.com/stars/AristarhUcolov/lists/%D0%BC%D0%BE%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-my-stack) 🔨
 
