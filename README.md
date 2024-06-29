@@ -1,6 +1,6 @@
 # ==================== [RU:](https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png)
 
-# 👋 # Привет, меня зовут Аристарх Уколов ! 👋
+# 👋 Привет, меня зовут Аристарх Уколов ! 👋
 
 ### 🚀 Добро пожаловать в мой [GitHub](https://github.com/AristarhUcolov) профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях. 🚀
 
