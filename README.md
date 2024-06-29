@@ -1,16 +1,51 @@
-## Hi there 👋
+=============== RU
 
-<!--
-**AristarhUcolov/AristarhUcolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, меня зовут Аристарх Уколов ! 👋
 
-Here are some ideas to get you started:
+🚀 Добро пожаловать в мой GitHub профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## О себе
+
+Привет! Я человек который любит очень сильно автоматизировать процессы и создавать разные фишки в области Кибербезопасности, Игр и многое другое.
+
+## Проекты
+
+### Clear Net Sky
+Кибербезопасность от C.N.S [Clear Net Sky] формата S.O.W.A. Вы сможете добавить DNS листы которые заблокированы к примеру: Порнографические сайты, суицидальные сайты, сайты связанные с сайтами с убийствами и смертью и многое другое. [ Цель: Защитить гражданское население от непредсказуемых вещах в интернете ] |
+
+## Связь
+
+Не стесняйтесь связаться со мной:
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/)
+- YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/)
+- Discord: [Discord](discord.gg/Mz8xMYkM5m/)
+- Steam: [Steam](steamcommunity.com/id/aristarhucolov/)
+- Twitter: [Twitter](https://twitter.com/AristarhUcolov/)
+- Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/)
+
+=============== ENG
+# Hi, my name is Aristarh Ucolov ! 👋
+
+🚀 Welcome to my GitHub profile! Here I share my projects and experience in programming and various fields.
+
+## About Me
+
+Hi! I'm a person who loves to heavily automate processes and create various features in the fields of CyberSecurity, Gaming, and much more.
+
+## Projects
+
+### Clear Net Sky
+Cybersecurity from C.N.S [Clear Net Sky] in the S.O.W.A format. You can add DNS lists that are blocked, for example: Pornographic sites, suicidal sites, sites related to murders and death, and much more. [ Goal: Protect the civilian population from unpredictable things on the Internet ] |
+
+## Contact
+
+Feel free to contact me:
+
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/)
+- YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/)
+- Discord: [Discord](discord.gg/Mz8xMYkM5m/)
+- Steam: [Steam](steamcommunity.com/id/aristarhucolov/)
+- Twitter: [Twitter](https://twitter.com/AristarhUcolov/)
+- Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/)
+
