@@ -1,4 +1,4 @@
-# ==================== RU:
+# ==================== [RU:](https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png):
 
 # 👋 # Привет, меня зовут Аристарх Уколов ! 👋
 
@@ -26,7 +26,7 @@
 ### - ✨ Twitter: [Twitter](https://twitter.com/AristarhUcolov/) ✨
 ### - 👨 Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/) 👨
 
-# ==================== ENG:
+# ==================== [ENG:](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png):
 
 # 👋 Hi, my name is Aristarh Ucolov ! 👋
 
