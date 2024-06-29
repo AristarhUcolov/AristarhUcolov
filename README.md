@@ -17,8 +17,8 @@
  ![image](https://github.com/AristarhUcolov/The-Future-Of-The-Technologies-Corporation/assets/56760026/f3635e6b-edbc-4451-84e8-a29c48bb1854)
 
 ### [2. Система Лошади для SA:MP Серверов](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov)
-**[Horse System = Скрипт для Серверов | Создано мной и продано многим проектам:](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov)**
-**Мой старый скрипт** для создания **Системы Лошади** в **GTA SA:MP**
+**[Horse System = Скрипт для Серверов САМП | Создано мной и продано многим проектам:](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov)**
+**Мой старый скрипт** для созданий **Системы Лошади** **для серверов** в **GTA SA:MP**
 в те времена я решил создать нечто интересное для серверов **скрипт для сервера позволяющий управлять объектом Лошади как Транспортное Передвижение**
 
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
@@ -58,7 +58,7 @@ using various **methods of protecting and assisting the civilian population in t
 
 ### [2. Horse System for SA:MP Servers](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov)
 **[Horse System = Script for Servers | Created by me and sold to many projects:](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov)**
-**My old script** for creating the **Horse System** in **GTA SA:MP**
+**My old script** for creating the **Horse System** **for servers** in **GTA SA:MP**
 in those days I decided to create something interesting for servers **a script for the server that allows you to manage the Horse object as a Transport Movement**
 
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
