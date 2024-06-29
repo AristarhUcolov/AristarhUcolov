@@ -1,4 +1,4 @@
-=============== RU
+# ==================== RU:
 
 # Привет, меня зовут Аристарх Уколов ! 👋
 
@@ -26,7 +26,8 @@
 - Twitter: [Twitter](https://twitter.com/AristarhUcolov/)
 - Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/)
 
-=============== ENG
+# ==================== ENG:
+
 # Hi, my name is Aristarh Ucolov ! 👋
 
 🚀 Welcome to my GitHub profile! Here I share my projects and experience in programming and various fields.
