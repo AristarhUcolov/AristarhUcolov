@@ -19,12 +19,12 @@
 
 Не стесняйтесь связаться со мной:
 
-### - 😎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/) 😎
-### - 💖 YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/) 💖
-### - 👀 Discord: [Discord](discord.gg/Mz8xMYkM5m/) 👀
-### - 🐱‍👤 Steam: [Steam](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
-### - ✨ Twitter: [Twitter](https://twitter.com/AristarhUcolov/) ✨
-### - 👨 Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/) 👨
+### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
+### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
+### - 👀 [Discord:](discord.gg/Mz8xMYkM5m/) 👀
+### - 🐱‍👤 [Steam:](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
+### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
+### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
 
 
 
@@ -49,9 +49,9 @@ Cybersecurity from C.N.S [Clear Net Sky] in the S.O.W.A format. You can add DNS 
 
 Feel free to contact me:
 
-### - 😎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/) 😎
-### - 💖 YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/) 💖
-### - 👀 Discord: [Discord](discord.gg/Mz8xMYkM5m/) 👀
-### - 🐱‍👤 Steam: [Steam](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
-### - ✨ Twitter: [Twitter](https://twitter.com/AristarhUcolov/) ✨
-### - 👨 Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/) 👨
+### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
+### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
+### - 👀 [Discord:](discord.gg/Mz8xMYkM5m/) 👀
+### - 🐱‍👤 [Steam:](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
+### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
+### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
