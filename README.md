@@ -2,7 +2,7 @@
 
 # Привет, меня зовут Аристарх Уколов ! 👋
 
-🚀 Добро пожаловать в мой GitHub профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях.
+🚀 Добро пожаловать в мой [GitHub](https://github.com/AristarhUcolov) профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях.
 
 ## О себе
 
@@ -19,18 +19,18 @@
 
 Не стесняйтесь связаться со мной:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/)
-- YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/)
-- Discord: [Discord](discord.gg/Mz8xMYkM5m/)
-- Steam: [Steam](steamcommunity.com/id/aristarhucolov/)
-- Twitter: [Twitter](https://twitter.com/AristarhUcolov/)
-- Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/)
+### - 😎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/) 😎
+### - 💖 YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/) 💖
+### - 👀 Discord: [Discord](discord.gg/Mz8xMYkM5m/) 👀
+### - 🐱‍👤 Steam: [Steam](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
+### - ✨ Twitter: [Twitter](https://twitter.com/AristarhUcolov/) ✨
+### - 👨 Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/) 👨
 
 # ==================== ENG:
 
 # Hi, my name is Aristarh Ucolov ! 👋
 
-🚀 Welcome to my GitHub profile! Here I share my projects and experience in programming and various fields.
+🚀 Welcome to my [GitHub](https://github.com/AristarhUcolov) profile! Here I share my projects and experience in programming and various fields.
 
 ## About Me
 
@@ -47,10 +47,11 @@ Cybersecurity from C.N.S [Clear Net Sky] in the S.O.W.A format. You can add DNS 
 
 Feel free to contact me:
 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/)
-- YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/)
-- Discord: [Discord](discord.gg/Mz8xMYkM5m/)
-- Steam: [Steam](steamcommunity.com/id/aristarhucolov/)
-- Twitter: [Twitter](https://twitter.com/AristarhUcolov/)
-- Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/)
+### - 😎 LinkedIn: [LinkedIn](https://www.linkedin.com/in/aristarhucolov/) 😎
+### - 💖 YouTube: [YouTube](https://youtube.com/@Aristarh.Ucolov/) 💖
+### - 👀 Discord: [Discord](discord.gg/Mz8xMYkM5m/) 👀
+### - 🐱‍👤 Steam: [Steam](steamcommunity.com/id/aristarhucolov/) 🐱‍👤
+### - ✨ Twitter: [Twitter](https://twitter.com/AristarhUcolov/) ✨
+### - 👨 Reddit: [Reddit](https://reddit.com/user/TheOldAristarh/) 👨
+
 
