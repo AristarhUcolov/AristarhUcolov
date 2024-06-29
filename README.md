@@ -27,13 +27,13 @@
 
 🔔 **Не стесняйтесь связаться со мной:** 🔔
 
-### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
-### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
-### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m/) 👀
-### - 🤵 [VK:](https://www.https://vk.com/aristarh.ucolov/) 🤵
-### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov/) 🐱‍👤
-### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
-### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
+### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov) 😎
+### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov) 💖
+### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m) 👀
+### - 🤵 [VK:](https://vk.com/aristarh.ucolov) 🤵
+### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov) 🐱‍👤
+### - ✨ [Twitter:](https://twitter.com/AristarhUcolov) ✨
+### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh) 👨
 
 
 
@@ -67,10 +67,10 @@ in those days I decided to create something interesting for servers **a script f
 
 🔔 **Feel free to contact me:** 🔔
 
-### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov/) 😎
-### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov/) 💖
-### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m/) 👀
-### - 🤵 [VK:](https://www.https://vk.com/aristarh.ucolov/) 🤵
-### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov/) 🐱‍👤
-### - ✨ [Twitter:](https://twitter.com/AristarhUcolov/) ✨
-### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh/) 👨
+### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov) 😎
+### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov) 💖
+### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m) 👀
+### - 🤵 [VK:](https://vk.com/aristarh.ucolov) 🤵
+### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov) 🐱‍👤
+### - ✨ [Twitter:](https://twitter.com/AristarhUcolov) ✨
+### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh) 👨
