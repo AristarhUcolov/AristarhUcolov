@@ -1,12 +1,12 @@
 # ==================== RU:
 
-# Привет, меня зовут Аристарх Уколов ! 👋
+# 👋 # Привет, меня зовут Аристарх Уколов ! 👋
 
-🚀 Добро пожаловать в мой [GitHub](https://github.com/AristarhUcolov) профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях.
+### 🚀 Добро пожаловать в мой [GitHub](https://github.com/AristarhUcolov) профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях. 🚀
 
 ## О себе
 
-Привет! Я человек который любит очень сильно автоматизировать процессы и создавать разные фишки в области Кибербезопасности, Игр и многое другое.
+Я человек который любит очень сильно автоматизировать процессы и создавать разные фишки в области Кибербезопасности, Игр и многое другое.
 
 ## Проекты
 
@@ -28,13 +28,13 @@
 
 # ==================== ENG:
 
-# Hi, my name is Aristarh Ucolov ! 👋
+# 👋 Hi, my name is Aristarh Ucolov ! 👋
 
-🚀 Welcome to my [GitHub](https://github.com/AristarhUcolov) profile! Here I share my projects and experience in programming and various fields.
+### 🚀 Welcome to my [GitHub](https://github.com/AristarhUcolov) profile! Here I share my projects and experience in programming and various fields. 🚀
 
 ## About Me
 
-Hi! I'm a person who loves to heavily automate processes and create various features in the fields of CyberSecurity, Gaming, and much more.
+I'm a person who loves to heavily automate processes and create various features in the fields of CyberSecurity, Gaming, and much more.
 
 ## Projects
 
