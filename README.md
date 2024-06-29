@@ -11,7 +11,7 @@
 ## Проекты
 
 ### [1. Clear-Net-Sky](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)
-**C.N.S: Clear Net Sky = S.O.W.A | Сова никогда не спит**
+**[C.N.S: Clear Net Sky = S.O.W.A | Сова никогда не спит](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)**
 Начало новой эпохи по созданию нового режима защиты в интернете 
 с помощью разных методов защиты и помощи гражданскому населению в области Информационных Технологий
 
@@ -44,7 +44,7 @@ I'm a person who loves to heavily automate processes and create various features
 ## Projects
 
 ### [1. Clear-Net-Sky](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)
-**C.N.S: Clear Net Sky = S.O.W.A | Owl never sleeps**
+**[C.N.S: Clear Net Sky = S.O.W.A | Owl never sleeps](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)**
 The beginning of a new era to create a new Internet protection regime 
 using various methods of protecting and assisting the civilian population in the field of Information Technology
 
