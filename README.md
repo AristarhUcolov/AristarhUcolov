@@ -11,8 +11,7 @@
 ## [Проекты](https://github.com/stars/AristarhUcolov/lists/%D0%BC%D0%BE%D1%8F-%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0-my-stack)
 
 ### [1. Clear-Net-Sky](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)
-**[C.N.S: Clear Net Sky = S.O.W.A | Сова никогда не спит:](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)**
-**Начало новой эпохи** по созданию **нового режима защиты в интернете**
+**[C.N.S: Clear Net Sky = S.O.W.A | Сова никогда не спит:](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A)** **Начало новой эпохи** по созданию **нового режима защиты в интернете**
 с помощью разных **методов защиты и помощи гражданскому населению в области Информационных Технологий**
 
  ![image](https://github.com/AristarhUcolov/The-Future-Of-The-Technologies-Corporation/assets/56760026/f3635e6b-edbc-4451-84e8-a29c48bb1854)
