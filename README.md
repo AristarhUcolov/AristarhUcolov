@@ -24,7 +24,7 @@
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
 
 ### 🧥 [3. Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky) 🧥
-🧥 **Кибербезопасность** от **C.N.S [Clear Net Sky] формата S.O.W.A**. Вы сможете добавить DNS листы которые заблокированы к примеру: Порнографические сайты, суицидальные сайты, сайты связанные с сайтами с убийствами и смертью и многое другое. **[ Цель: Защитить гражданское население от непредсказуемых вещах в интернете ]** | 🧥
+🧥 **[Кибербезопасность](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)** от **[C.N.S [Clear Net Sky] формата S.O.W.A](https://aristarhucolov.github.io/C.N.S-Clear.Net.Sky-S.O.W.A/)**. Вы сможете добавить DNS листы которые заблокированы к примеру: Порнографические сайты, суицидальные сайты, сайты связанные с сайтами с убийствами и смертью и многое другое. **[ Цель: Защитить гражданское население от непредсказуемых вещах в интернете ]** | 🧥
 
 ![image](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d)
 
@@ -74,7 +74,7 @@ in those days I decided to create something interesting for servers **a script f
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
 
 ### 🧥 [3. Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky) 🧥
-🧥 **Cybersecurity** from **C.N.S [Clear Net Sky] S.O.W.A format**. You can add DNS lists that are blocked for example: Pornographic sites, suicide sites, sites related to sites with murder and death, and much more.
+🧥 **[CyberSecurity](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)** from **[C.N.S [Clear Net Sky] S.O.W.A format](https://aristarhucolov.github.io/C.N.S-Clear.Net.Sky-S.O.W.A/)**. You can add DNS lists that are blocked for example: Pornographic sites, suicide sites, sites related to sites with murder and death, and much more.
 **[Goal: Protect civilians from unpredictable things on the Internet]** 🧥
 
 ![image](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d)
