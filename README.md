@@ -74,13 +74,13 @@ in those days I decided to create something interesting for servers **a script f
 ![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-by-Aristarh-Ucolov-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
 
 # [3. Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky](https://github.com/AristarhUcolov/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky) 🕹
-## 🧥 **Cybersecurity** from **C.N.S [Clear Net Sky] S.O.W.A format**. You can add DNS lists that are blocked for example: Pornographic sites, suicide sites, sites related to sites with murder and death, and much more.
+🧥 **Cybersecurity** from **C.N.S [Clear Net Sky] S.O.W.A format**. You can add DNS lists that are blocked for example: Pornographic sites, suicide sites, sites related to sites with murder and death, and much more.
 **[Goal: Protect civilians from unpredictable things on the Internet]** 🧥
 
 ![image](https://github.com/AristarhUcolov/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d)
 
-### [4. 🔐 GlobalContentGuard 🔐](https://github.com/AristarhUcolov/Global-Content-Guardhttps://github.com/AristarhUcolov/Global-Content-Guard) 🕹
-# GlobalContentGuard is a universal Chrome extension designed for cybersecurity and filtering unwanted content on all websites and search engines. 🚀 The extension automatically removes text, images, and blocks that contain specified keywords, ensuring a safer and more comfortable browsing experience. It supports a multilingual interface (🇷🇺/🇬🇧), offers case sensitivity settings, and allows the exclusion of specific websites via a Whitelist.
+## [4. 🔐 GlobalContentGuard 🔐](https://github.com/AristarhUcolov/Global-Content-Guardhttps://github.com/AristarhUcolov/Global-Content-Guard) 🕹
+### GlobalContentGuard is a universal Chrome extension designed for cybersecurity and filtering unwanted content on all websites and search engines. 🚀 The extension automatically removes text, images, and blocks that contain specified keywords, ensuring a safer and more comfortable browsing experience. It supports a multilingual interface (🇷🇺/🇬🇧), offers case sensitivity settings, and allows the exclusion of specific websites via a Whitelist.
 
 <img src="https://github.com/user-attachments/assets/2431bd3f-8e3a-4fb1-8c10-900bb4c27381" width="500">
 
