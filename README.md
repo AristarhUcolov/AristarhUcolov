@@ -33,6 +33,12 @@
 
 ![image](https://github.com/user-attachments/assets/f06c3ab4-03db-455b-bdf7-f0e45e84a16c)
 
+# 🛡️ [5. Антитеррористический проект: Операция «Зеркальное Облако»](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
+
+**[Операция «Зеркальное Облако](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** – это открытый информационный проект, направленный на мониторинг и выявление подозреваемых лиц и транспортных средств, которые могут быть связаны с террористической деятельностью. Проект предоставляет обществу доступ к важной информации для обеспечения безопасности.  
+
+![image](https://github.com/user-attachments/assets/2d50be36-b38b-4966-b473-e56455ff4dc4)
+
 ## Связь
 
 🔔 **Не стесняйтесь связаться со мной:** 🔔
@@ -83,6 +89,11 @@ in those days I decided to create something interesting for servers **a script f
 **[GlobalContentGuard](https://github.com/AristarhUcolov/Global-Content-Guard)** is **a universal Chrome extension designed for cybersecurity and filtering unwanted content on all websites and search engines**. 🚀 **The extension automatically removes text, images, and blocks that contain specified keywords, ensuring a safer and more comfortable browsing experience. It supports a multilingual interface (🇷🇺/🇬🇧)**, offers case sensitivity settings, and allows the exclusion of specific websites via a Whitelist.
 
 ![image](https://github.com/user-attachments/assets/a10620e0-67f1-482e-a232-6640bb6014fa)
+
+# 🛡️ [5. Anti-Terrorist Project: Operation Mirror Cloud](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
+**[Operation Mirror Cloud](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** is an open-source project aimed at monitoring and identifying suspicious individuals and vehicles potentially linked to terrorist activities. This project provides the public with access to vital security information.
+
+![image](https://github.com/user-attachments/assets/2d50be36-b38b-4966-b473-e56455ff4dc4)
 
 ## Contact
 
