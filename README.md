@@ -31,7 +31,7 @@
 ### 🔐 [4. GlobalContentGuard](https://github.com/AristarhUcolov/Global-Content-Guard) 🔐
 **[GlobalContentGuard](https://github.com/AristarhUcolov/Global-Content-Guard)** — это **универсальное расширение для браузера Chrome**, предназначенное для кибербезопасности и фильтрации нежелательного контента на всех веб-сайтах и в поисковых системах. 🚀 **Расширение автоматически удаляет текст, изображения и блоки с заданными ключевыми словами, обеспечивая безопасный и комфортный просмотр. Поддерживается многоязычный интерфейс (🇷🇺/🇬🇧)**, настройка регистрозависимости и возможность исключения сайтов из фильтрации с помощью Whitelist.
 
-![image](https://github.com/user-attachments/assets/7436aee9-7095-4f64-a75d-865318f7cd13)
+<img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500">
 
 # 🛡️ [5. Антитеррористический проект: Операция «Зеркальное Облако»](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
 
@@ -88,7 +88,7 @@ in those days I decided to create something interesting for servers **a script f
 ### 🔐 [4. GlobalContentGuard](https://github.com/AristarhUcolov/Global-Content-Guard) 🔐
 **[GlobalContentGuard](https://github.com/AristarhUcolov/Global-Content-Guard)** is **a universal Chrome extension designed for cybersecurity and filtering unwanted content on all websites and search engines**. 🚀 **The extension automatically removes text, images, and blocks that contain specified keywords, ensuring a safer and more comfortable browsing experience. It supports a multilingual interface (🇷🇺/🇬🇧)**, offers case sensitivity settings, and allows the exclusion of specific websites via a Whitelist.
 
-![image](https://github.com/user-attachments/assets/65a40212-332e-4d0f-9dcb-63e3a6d547a9)
+<img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500">
 
 # 🛡️ [5. Anti-Terrorist Project: Operation Mirror Cloud](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
 **[Operation Mirror Cloud](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** is an open-source project aimed at monitoring and identifying suspicious individuals and vehicles potentially linked to terrorist activities. This project provides the public with access to vital security information.
