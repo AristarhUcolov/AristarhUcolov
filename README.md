@@ -1,6 +1,14 @@
-# [RU:](https://upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/1200px-Flag_of_Russia.svg.png)
+<!-- Language Navigation -->
+<p align="center">
+  <a href="#ru-section"><img src="https://img.shields.io/badge/🇷🇺-Русский-blue?style=for-the-badge" alt="Русский"></a>
+  <a href="#en-section"><img src="https://img.shields.io/badge/🇬🇧-English-red?style=for-the-badge" alt="English"></a>
+</p>
 
-# 👋 Привет, меня зовут Аристарх Уколов ( Aristarh Ucolov ) ! 👋
+---
+
+<h1 id="ru-section">🇷🇺 Русский</h1>
+
+# 👋 Привет, меня зовут Аристарх Уколов (Aristarh Ucolov)! 👋
 
 ### 🚀 Добро пожаловать в мой [GitHub](https://github.com/AristarhUcolov) профиль! Здесь я делюсь своими проектами и опытом в программировании и в разных областях. 🚀
 
@@ -33,29 +41,33 @@
 
 <img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500">
 
-# 🛡️ [5. Антитеррористический проект: Операция «Зеркальное Облако»](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
+### 🛡️ [5. Антитеррористический проект: Операция «Зеркальное Облако»](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/) 🛡️
 
-**[Операция «Зеркальное Облако](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** – это открытый информационный проект, направленный на мониторинг и выявление подозреваемых лиц и транспортных средств, которые могут быть связаны с террористической деятельностью. Проект предоставляет обществу доступ к важной информации для обеспечения безопасности.  
+**[Операция «Зеркальное Облако»](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** – это открытый информационный проект, направленный на мониторинг и выявление подозреваемых лиц и транспортных средств, которые могут быть связаны с террористической деятельностью. Проект предоставляет обществу доступ к важной информации для обеспечения безопасности.  
 
 ![{0D38F14B-A96E-455B-B22C-8CA494735F88}](https://github.com/user-attachments/assets/4c071e6e-c6a5-439a-862b-518eef0f9254)
 
-## Связь
+## 📫 Связь
 
 🔔 **Не стесняйтесь связаться со мной:** 🔔
 
-### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov) 😎
-### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov) 💖
-### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m) 👀
-### - 🤵 [VK:](https://vk.com/aristarh.ucolov) 🤵
-### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov) 🐱‍👤
-### - ✨ [Twitter:](https://twitter.com/AristarhUcolov) ✨
-### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh) 👨
+<p align="left">
+  <a href="https://www.linkedin.com/in/aristarhucolov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@Aristarh.Ucolov"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://discord.gg/Mz8xMYkM5m"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://vk.com/aristarh.ucolov"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+  <a href="https://steamcommunity.com/id/aristarhucolov"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://twitter.com/AristarhUcolov"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://reddit.com/user/TheOldAristarh"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+</p>
 
 
 
-# [ENG:](https://upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/800px-Flag_of_the_United_Kingdom.svg.png)
+---
 
-# 👋 Hi, my name is Aristarh Ucolov ! 👋
+<h1 id="en-section">🇬🇧 English</h1>
+
+# 👋 Hi, my name is Aristarh Ucolov! 👋
 
 ### 🚀 Welcome to my [GitHub](https://github.com/AristarhUcolov) profile! Here I share my projects and experience in programming and various fields. 🚀
 
@@ -90,19 +102,22 @@ in those days I decided to create something interesting for servers **a script f
 
 <img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500">
 
-# 🛡️ [5. Anti-Terrorist Project: Operation Mirror Cloud](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)
+### 🛡️ [5. Anti-Terrorist Project: Operation Mirror Cloud](https://aristarhucolov.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/) 🛡️
+
 **[Operation Mirror Cloud](https://github.com/AristarhUcolov/Anti-Terrorist-Project-Operation-Mirror-Cloud)** is an open-source project aimed at monitoring and identifying suspicious individuals and vehicles potentially linked to terrorist activities. This project provides the public with access to vital security information.
 
 ![{0D38F14B-A96E-455B-B22C-8CA494735F88}](https://github.com/user-attachments/assets/4c071e6e-c6a5-439a-862b-518eef0f9254)
 
-## Contact
+## 📫 Contact
 
 🔔 **Feel free to contact me:** 🔔
 
-### - 😎 [LinkedIn:](https://www.linkedin.com/in/aristarhucolov) 😎
-### - 💖 [YouTube:](https://youtube.com/@Aristarh.Ucolov) 💖
-### - 👀 [Discord:](https://discord.gg/Mz8xMYkM5m) 👀
-### - 🤵 [VK:](https://vk.com/aristarh.ucolov) 🤵
-### - 🐱‍👤 [Steam:](https://steamcommunity.com/id/aristarhucolov) 🐱‍👤
-### - ✨ [Twitter:](https://twitter.com/AristarhUcolov) ✨
-### - 👨 [Reddit:](https://reddit.com/user/TheOldAristarh) 👨
+<p align="left">
+  <a href="https://www.linkedin.com/in/aristarhucolov"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://youtube.com/@Aristarh.Ucolov"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://discord.gg/Mz8xMYkM5m"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://vk.com/aristarh.ucolov"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"></a>
+  <a href="https://steamcommunity.com/id/aristarhucolov"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam"></a>
+  <a href="https://twitter.com/AristarhUcolov"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://reddit.com/user/TheOldAristarh"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit"></a>
+</p>
