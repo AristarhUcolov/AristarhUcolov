@@ -29,7 +29,7 @@
 **Мой** **[старый скрипт](https://sampforum.blast.hk/showthread.php?tid=677383)** для созданий **Системы Лошади** **для серверов** в **GTA SA:MP**
 в те времена я решил создать нечто интересное для серверов **скрипт для сервера позволяющий управлять объектом Лошади как Транспортное Средство**
 
-![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
+![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
 
 ### 🧥 [3. Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky) 🧥
 **[Кибербезопасность](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)** от **[C.N.S [Clear Net Sky] формата S.O.W.A](https://clearnetsky.github.io/C.N.S-Clear.Net.Sky-S.O.W.A/)**. Вы сможете добавить DNS листы которые заблокированы к примеру: Порнографические сайты, суицидальные сайты, сайты связанные с сайтами с убийствами и смертью и многое другое. **[ Цель: Защитить гражданское население от непредсказуемых вещах в интернете ]** | 🧥
@@ -84,7 +84,7 @@ using various **methods of protecting and assisting the civilian population in t
 **My** **[old script](https://sampforum.blast.hk/showthread.php?tid=677383)** for creating the **Horse System** **for servers** in **GTA SA:MP**
 in those days I decided to create something interesting for servers **a script for the server that allows you to manage the Horse object as a Transport Vehicle**
 
-![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
+![image](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac)
 
 ### 🧥 [3. Safe-World-DNS-BlockList-Of-Danger-WebSites-by-C.N.S-Clear-Net-Sky](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky) 🧥
 **[CyberSecurity](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)** from **[C.N.S [Clear Net Sky] S.O.W.A format](https://clearnetsky.github.io/C.N.S-Clear.Net.Sky-S.O.W.A/)**. You can add DNS lists that are blocked for example: Pornographic sites, suicide sites, sites related to sites with murder and death, and much more.
