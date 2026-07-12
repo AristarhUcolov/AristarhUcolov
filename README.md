@@ -53,23 +53,6 @@ Founder of the civilian cybersecurity initiative **[C.N.S — Clear Net Sky](htt
 | **[S.O.W.A DNS Blacklist](https://github.com/ClearNetSky/CNS-SOWA-DNS-BLACKLIST-FILTERING)** | Блокировочные списки для DNS-фильтров: 29+ категорий опасных и нежелательных ресурсов ([ранняя версия](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)) | Data |
 | **[Operation Mirror Cloud](https://github.com/ClearNetSky/Anti-Terrorist-Project-Operation-Mirror-Cloud)** | Открытый информационный OSINT-проект в сфере общественной безопасности ([сайт](https://clearnetsky.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)) | JavaScript |
 
-<details>
-<summary>📸 <b>Скриншоты</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac9a2943-3376-4ce4-91c1-39e0c64837b1" width="800" alt="C.N.S — Clear Net Sky (S.O.W.A)">
-  <br><sub>Сайт инициативы C.N.S — Clear Net Sky (S.O.W.A)</sub>
-</p>
-<p align="center">
-  <img src="https://github.com/ClearNetSky/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d" width="800" alt="S.O.W.A DNS Blacklist">
-  <br><sub>S.O.W.A DNS Blacklist — категории блокировочных списков</sub>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c071e6e-c6a5-439a-862b-518eef0f9254" width="800" alt="Operation Mirror Cloud">
-  <br><sub>Operation Mirror Cloud — открытый OSINT-проект</sub>
-</p>
-</details>
-
 ### Безопасность браузера
 
 | Проект | Описание | Стек |
@@ -78,15 +61,6 @@ Founder of the civilian cybersecurity initiative **[C.N.S — Clear Net Sky](htt
 | **[Global Content Guard](https://github.com/ClearNetSky/Global-Content-Guard)** | Расширение Chrome: фильтрация текста, изображений и блоков по ключевым словам на любых сайтах, интерфейс RU/EN, whitelist | JavaScript |
 | **[Secure Profile Lock](https://github.com/ClearNetSky/Browser-Profiles-Authentication-Secure-Profile-Lock)** | Парольная защита профилей Chrome для общих компьютеров | JavaScript |
 | **[Eye Vision Protector](https://github.com/ClearNetSky/Eye-Vision-Protector---Better-Vision-Save-Your-Vision)** | Защита зрения при длительной работе и помощь слабовидящим пользователям | JavaScript |
-
-<details>
-<summary>📸 <b>Скриншоты</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500" alt="Global Content Guard">
-  <br><sub>Global Content Guard — интерфейс расширения</sub>
-</p>
-</details>
 
 ### Инструменты и автоматизация
 
@@ -98,15 +72,6 @@ Founder of the civilian cybersecurity initiative **[C.N.S — Clear Net Sky](htt
 | **[Humanity Language Tool](https://github.com/AristarhUcolov/Humanity-Language-Tool-Synonymizer)** | Мультиязычный синонимайзер (EN/RU/MO): 15 000+ синонимов, полное сохранение форматирования DOCX, офлайн | Go |
 
 <details>
-<summary>📸 <b>Скриншоты</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bae4cc20-936a-47e8-8251-2e8948987e87" width="800" alt="DayZ Server Manager">
-  <br><sub>DayZ Server Manager — веб-панель управления сервером</sub>
-</p>
-</details>
-
-<details>
 <summary><b>Архив: ранние работы</b></summary>
 <br>
 
@@ -115,11 +80,6 @@ Founder of the civilian cybersecurity initiative **[C.N.S — Clear Net Sky](htt
 | **[Horse System for SA:MP](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers)** | Скрипт на Pawn, позволяющий управлять объектом лошади как транспортным средством — использовался многими серверами GTA SA:MP |
 | **[Smit Role Play](https://github.com/AristarhUcolov/Smit-Role-Play-SAMP-0.3.7)** | Игровой режим Role Play для GTA SA:MP |
 | **[YouTube Downloader](https://github.com/AristarhUcolov/YouTube-Downloader)** | Загрузчик видео и плейлистов (MP3/MP4) с графическим интерфейсом на Python |
-
-<p align="center">
-  <img src="https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac" width="500" alt="Horse System for SA:MP">
-  <br><sub>Horse System for SA:MP</sub>
-</p>
 
 </details>
 
@@ -177,23 +137,6 @@ I am preparing to enter **law school**: my goal is to work at the intersection o
 | **[S.O.W.A DNS Blacklist](https://github.com/ClearNetSky/CNS-SOWA-DNS-BLACKLIST-FILTERING)** | Blocklists for DNS filters: 29+ categories of dangerous and unwanted resources ([earlier version](https://github.com/ClearNetSky/Safe-World-DNS-BlackList-Of-Danger-WebSites-by-C.N.S-Clear.Net.Sky)) | Data |
 | **[Operation Mirror Cloud](https://github.com/ClearNetSky/Anti-Terrorist-Project-Operation-Mirror-Cloud)** | Open OSINT information project in the field of public safety ([website](https://clearnetsky.github.io/Anti-Terrorist-Project-Operation-Mirror-Cloud/)) | JavaScript |
 
-<details>
-<summary>📸 <b>Screenshots</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/efc2ccbc-b314-49e8-9a29-8cc588d6775f" width="800" alt="C.N.S — Clear Net Sky (S.O.W.A)">
-  <br><sub>C.N.S — Clear Net Sky (S.O.W.A) initiative website</sub>
-</p>
-<p align="center">
-  <img src="https://github.com/ClearNetSky/C.N.S-Clear.Net.Sky-S.O.W.A/assets/56760026/e5ac6a77-1851-4e4e-93eb-02869adca27d" width="800" alt="S.O.W.A DNS Blacklist">
-  <br><sub>S.O.W.A DNS Blacklist — blocklist categories</sub>
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4c071e6e-c6a5-439a-862b-518eef0f9254" width="800" alt="Operation Mirror Cloud">
-  <br><sub>Operation Mirror Cloud — open OSINT project</sub>
-</p>
-</details>
-
 ### Browser Security
 
 | Project | Description | Stack |
@@ -202,15 +145,6 @@ I am preparing to enter **law school**: my goal is to work at the intersection o
 | **[Global Content Guard](https://github.com/ClearNetSky/Global-Content-Guard)** | Chrome extension: keyword-based filtering of text, images, and blocks on any website, RU/EN interface, whitelist support | JavaScript |
 | **[Secure Profile Lock](https://github.com/ClearNetSky/Browser-Profiles-Authentication-Secure-Profile-Lock)** | Password protection for Chrome profiles on shared computers | JavaScript |
 | **[Eye Vision Protector](https://github.com/ClearNetSky/Eye-Vision-Protector---Better-Vision-Save-Your-Vision)** | Eye protection during prolonged computer use and assistance for visually impaired users | JavaScript |
-
-<details>
-<summary>📸 <b>Screenshots</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/29df3dff-ed52-47fa-899d-ccd0bbcbb878" width="500" alt="Global Content Guard">
-  <br><sub>Global Content Guard — extension interface</sub>
-</p>
-</details>
 
 ### Tools & Automation
 
@@ -222,15 +156,6 @@ I am preparing to enter **law school**: my goal is to work at the intersection o
 | **[Humanity Language Tool](https://github.com/AristarhUcolov/Humanity-Language-Tool-Synonymizer)** | Multi-language synonymizer (EN/RU/MO): 15,000+ synonyms, full DOCX formatting preservation, 100% offline | Go |
 
 <details>
-<summary>📸 <b>Screenshots</b></summary>
-<br>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bae4cc20-936a-47e8-8251-2e8948987e87" width="800" alt="DayZ Server Manager">
-  <br><sub>DayZ Server Manager — web control panel</sub>
-</p>
-</details>
-
-<details>
 <summary><b>Archive: early work</b></summary>
 <br>
 
@@ -239,11 +164,6 @@ I am preparing to enter **law school**: my goal is to work at the intersection o
 | **[Horse System for SA:MP](https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers)** | Pawn script that lets players control a horse object as a vehicle — used by many GTA SA:MP servers |
 | **[Smit Role Play](https://github.com/AristarhUcolov/Smit-Role-Play-SAMP-0.3.7)** | Role Play game mode for GTA SA:MP |
 | **[YouTube Downloader](https://github.com/AristarhUcolov/YouTube-Downloader)** | Video and playlist downloader (MP3/MP4) with a Python GUI |
-
-<p align="center">
-  <img src="https://github.com/AristarhUcolov/Horse-System-for-SA-MP-Servers-SA-MP-/assets/56760026/89276dc0-f0dc-4652-8a27-9cb6e3f0c6ac" width="500" alt="Horse System for SA:MP">
-  <br><sub>Horse System for SA:MP</sub>
-</p>
 
 </details>
 
