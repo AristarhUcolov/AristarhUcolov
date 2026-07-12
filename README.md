@@ -195,8 +195,15 @@ Open to collaboration in digital security, forensics, and OSINT.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AristarhUcolov&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" height="165">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AristarhUcolov&layout=compact&theme=transparent&hide_border=true&langs_count=8&hide=php,batchfile" alt="Top Languages" height="165">
+<a href="https://github.com/AristarhUcolov?tab=followers"><img src="https://img.shields.io/github/followers/AristarhUcolov?style=for-the-badge&logo=github&label=Followers&color=1f6feb" alt="GitHub Followers"></a>
+&nbsp;
+<a href="https://github.com/AristarhUcolov?tab=repositories"><img src="https://img.shields.io/github/stars/AristarhUcolov?style=for-the-badge&logo=github&label=Total%20Stars&color=6e40c9&affiliations=OWNER" alt="Total Stars"></a>
+
+<br><br>
+
+<img src="https://ghchart.rshah.org/1f6feb/AristarhUcolov" width="800" alt="GitHub Contribution Graph">
+
+<br><br>
 
 <sub>C.N.S — Clear Net Sky · «Сова никогда не спит / The Owl never sleeps»</sub>
 
